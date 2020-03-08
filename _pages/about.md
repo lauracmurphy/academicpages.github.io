@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a BioImage Analyst in the [Advanced Imaging Resource](www.igmmimaging.com) in the [Institue of Genetics and Molecular Medicine, Edinburgh] (https://www.ed.ac.uk/igmm). 
+Hi, I am a BioImage Analyst in the [Advanced Imaging Resource](www.igmmimaging.com) in the [Institute of Genetics and Molecular Medicine, Edinburgh](https://www.ed.ac.uk/igmm). 
 
 ======

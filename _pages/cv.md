@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Genetics, Glasgow University, 2010
+* M.Sc. in Human Molecular Genetics, Imperial College London, 2011
+* Ph.D in Molecular Neuroscience, University of Edinburgh, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - present: BioImage Analyst
+  * Edinburgh University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2010 - 2011: Research Assistant
+  * Cambridge University
+  * Duties included: Tagging issues
 
 Publications
 ======
@@ -54,6 +42,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Communities
 ======
-* Currently signed in to 43 different slack teams
+
